@@ -1,2 +1,2 @@
 # Hasim-Professional-Portfolio
-My professional portfolio – Projects, Certificates and Achievements
+My professional portfolio – Projects, Certificates and Achievements.
